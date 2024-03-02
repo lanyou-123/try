@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<title>Document</title>
+</head>
+</div>
+<h1>
+    <p><b>《原神》</b></p>
+</h1>
+<h2>
+    <p>如果你不玩!!</p>
+</h2>
+<h3>
+    <p>你就无法得知</p>
+</h3>
+<h4>
+    <p><i>《原神》是由米哈游自主研发的一款全新开放世界冒险游戏。游戏发生在一个被称作「提瓦特」的幻想世界，在这里，被神选中的人将被授予「神之眼」，导引元素之力。你将扮演一位名为「旅行者」的神秘角色，在自由的旅行中邂逅性格各异、能力独特的同伴们，和他们一起击败强敌，找回失散的亲人——同时，逐步发掘「原神」的真相。</i>
+    </p>
+</h4>
+<img src="C:\Users\lenovo\Pictures\Camera Roll\yuanshen.jpg" alt="yuanshen" width="800" height="400">
+<a href="https://www.yuanshen.com/">启动请点击此处</a>
+<tr>
+    <th>适龄提醒</th>
+    <th>充值限额</th>
+</tr>
+<tr>
+    <td>未满八周岁</td>
+    <td>不能充值</td>
+</tr>
+<tr>
+    <td>八周岁至十六周岁</td>
+    <td>单次不超¥50，每月充值金额不得超过¥200</td>
+</tr>
+<tr>
+    <td>十六周岁以上</td>
+    <td>单次不超过¥100，每月充值金额不得超过¥400</td>
+</tr>
+</table>
+<h4>
+    <p style="font-family: arial;color:rgb(8, 193, 244);fond-size:20px">原神登录表</p>
+</h4>
+<form>
+    昵称：<input type="text" name="昵称"><br>
+    uid : <input type="text" name="uid">
+
+</form>
+<b><i>是否启动</i></b></h4>
+<ul>
+    <li>是</li>
+    <li>启动</li>
+</ul>
+<form>
+    <input type="checkbox" name="game" value="yuanshen">我喜欢玩原神<br>
+    <input type="checkbox" name="game" value="yuanshen">原神启动
+</form>
+<video width="800" height="400" controls>
+    <source src="C:\Users\lenovo\Downloads\无任何剪辑，原长度素材\petal_20230802_222428.mp4" type="video/mp4">
+    <source src="C:\Users\lenovo\Downloads\无任何剪辑，原长度素材\petal_20230802_222428.mp4" type="video/ogg">
+</video>
+
+</body>
+
+</html>
